@@ -1,0 +1,13 @@
+{
+  "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+  },
+  "eslint.alwaysShowStatus": true,
+  "files.eol": "\n",
+  "i18n-ally.displayLanguage": "zh-TW",
+  "i18n-ally.localesPaths": "lang",
+  "i18n-ally.enabledParsers": ["js", "ts", "json"],
+  "i18n-ally.keystyle": "nested",
+  "i18n-ally.sourceLanguage": "zh-TW",
+  "terminal.integrated.inheritEnv": false
+}
